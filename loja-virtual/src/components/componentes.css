@@ -1,0 +1,15 @@
+#titulo{
+    color: white;
+}
+
+#botao1{
+    width: 30vh;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+input{
+    width: 25vh;
+    border-radius: 15px;
+}
+
