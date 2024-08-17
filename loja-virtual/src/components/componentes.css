@@ -8,8 +8,36 @@
     border-radius: 5px;
 }
 
-input{
-    width: 25vh;
-    border-radius: 15px;
+
+
+
+#lojah1{
+   justify-content: center;
+    color: rebeccapurple;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+    margin-top: 20px;
+    display: flex;
+    
 }
 
+#form1{
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+
+
+#inputLupa{
+    width: 100%;
+    
+}
+
+#divlupa{
+    
+    width: 100%;
+    left: 98%;
+}
