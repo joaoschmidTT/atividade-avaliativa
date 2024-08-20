@@ -10,9 +10,13 @@ function App() {
 
     <BrowserRouter>
       <Routes>
+
+
 <Route path='/' element={<Login/>} />
-<Route path='/deucerto' element={<Loja/>} />
+<Route path='/deucerto' element={<Loja/>} />       
 <Route path='/carrinho' element={<Carrinho />} /> 
+
+
 
       </Routes>
     </BrowserRouter>
@@ -21,3 +25,6 @@ function App() {
 
 
 export default App;
+
+
+//criando as rotas com routes e browserrouter
